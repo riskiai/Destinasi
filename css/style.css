@@ -164,7 +164,7 @@ section {
 }
 
 .home .slide .content h3 {
-   font-size: 6vw;
+   font-size: 3vw;
    color: var(--white);
    text-transform: uppercase;
    line-height: 1;
@@ -573,7 +573,7 @@ section {
 
 .footer .box-container .box h3 {
    color: var(--white);
-   font-size: 2.5rem;
+   font-size: 1rem;
 
 
 }
@@ -609,20 +609,6 @@ section {
 .footer .credit span {
    color: var(--main-color);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 /* media queries  */
@@ -737,5 +723,12 @@ section {
    padding: 25rem;
    position: absolute;
    z-index: 0;
+   border: 100
 
+}
+.packages .heading-title {
+   color: #808080 !important;
+}
+.booking .heading-title{
+   color: #808080 !important;
 }

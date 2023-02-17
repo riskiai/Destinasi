@@ -24,13 +24,17 @@
 
 <section class="header">
 
-   <a href="home.php" class="logo">travel.</a>
+<a href="home.php" class="logo" >Indramayu Exsplore
+    </a>
+    <div  class="imglogo">
+    <img src="images/LOGO.png" alt=""  width = "65px"></img>
+   </div>
 
    <nav class="navbar">
-      <a href="home.php">home</a>
-      <a href="about.php">about</a>
-      <a href="package.php">package</a>
-      <a href="book.php">book</a>
+   <a href="home.php">Beranda</a>
+      <a href="about.php">Tentang</a>
+      <a href="package.php">Pilihan</a>
+      <a href="book.php">Pemesanan</a>
    </nav>
 
    <div id="menu-btn" class="fas fa-bars"></div>
@@ -39,54 +43,54 @@
 
 <!-- header section ends -->
 
-<div class="heading" style="background:url(images/home-slide-1.jpg) no-repeat">
-   <h1>book now</h1>
+<div class="heading" style="background:url(images/lau-transformed.jpeg) no-repeat">
+   <h1>Pemesanan Wisata</h1>
 </div>
 
 <!-- booking section starts  -->
 
 <section class="booking">
 
-   <h1 class="heading-title">book your trip!</h1>
+   <h1 class="heading-title">DATA PEMESANAN</h1>
 
    <form action="book_form.php" method="post" class="book-form">
 
       <div class="flex">
          <div class="inputBox">
-            <span>name :</span>
-            <input type="text" placeholder="enter your name" name="name">
+            <span>Nama :</span>
+            <input type="text" placeholder="Isikan Nama Anda " name="name">
          </div>
          <div class="inputBox">
-            <span>email :</span>
-            <input type="email" placeholder="enter your email" name="email">
+            <span>Email :</span>
+            <input type="email" placeholder="Isikan Email Anda" name="email">
          </div>
          <div class="inputBox">
-            <span>phone :</span>
-            <input type="number" placeholder="enter your number" name="phone">
+            <span>Nomor Hp :</span>
+            <input type="number" placeholder="Isikan Nomer Hp Anda" name="phone">
          </div>
          <div class="inputBox">
-            <span>address :</span>
-            <input type="text" placeholder="enter your address" name="address">
+            <span>Alamat :</span>
+            <input type="text" placeholder="Isikan Alamat Anda" name="address">
          </div>
          <div class="inputBox">
-            <span>where to :</span>
-            <input type="text" placeholder="place you want to visit" name="location">
+            <span>Tujuan Kemana :</span>
+            <input type="text" placeholder="Tentukan Tujuan Wisata Anda" name="location">
          </div>
          <div class="inputBox">
-            <span>how many :</span>
-            <input type="number" placeholder="number of guests" name="guests">
+            <span>Berapa Orang :</span>
+            <input type="number" placeholder="Isikan Jumlah Orang Anda" name="guests">
          </div>
          <div class="inputBox">
-            <span>arrivals :</span>
+            <span>Kedatangan :</span>
             <input type="date" name="arrivals">
          </div>
          <div class="inputBox">
-            <span>leaving :</span>
+            <span>Pergi :</span>
             <input type="date" name="leaving">
          </div>
       </div>
 
-      <input type="submit" value="submit" class="btn" name="send">
+      <input type="submit" value="kirim" class="btn" name="send">
 
    </form>
 
@@ -116,29 +120,29 @@
 
    <div class="box-container">
 
-      <div class="box">
-         <h3>quick links</h3>
-         <a href="home.php"> <i class="fas fa-angle-right"></i> home</a>
-         <a href="about.php"> <i class="fas fa-angle-right"></i> about</a>
-         <a href="package.php"> <i class="fas fa-angle-right"></i> package</a>
-         <a href="book.php"> <i class="fas fa-angle-right"></i> book</a>
+   <div class="box">
+         <h1 style="color: black;">Halaman Cepat</h1>
+         <a href="home.php"> <i class="fas fa-angle-right"></i> Beranda</a>
+         <a href="about.php"> <i class="fas fa-angle-right"></i> Tentang</a>
+         <a href="package.php"> <i class="fas fa-angle-right"></i> Pilihan</a>
+         <a href="book.php"> <i class="fas fa-angle-right"></i> Pemesanan</a>
       </div>
 
       <div class="box">
-         <h3>extra links</h3>
-         <a href="#"> <i class="fas fa-angle-right"></i> ask questions</a>
-         <a href="#"> <i class="fas fa-angle-right"></i> about us</a>
-         <a href="#"> <i class="fas fa-angle-right"></i> privacy policy</a>
-         <a href="#"> <i class="fas fa-angle-right"></i> terms of use</a>
+          <h1 style="color: black;">Seputar Wisata Indramayu</h1>
+         <a href="#"> <i class="fas fa-angle-right"></i> Ajukan Pertanyaan</a>
+         <a href="#"> <i class="fas fa-angle-right"></i> Tentang Indramayu</a>
+         <a href="#"> <i class="fas fa-angle-right"></i> Ketentuan</a>
+         <a href="#"> <i class="fas fa-angle-right"></i> Persyaratan</a>
       </div>
 
       <div class="box">
-      <h3>follow us</h3>
+         
+      <h1 style="color: black;">Ikuti Kami</h1>
          <a href="#"> <i class="fab fa-facebook-f"></i> facebook </a>
          <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
          <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
-         <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
-      </div>
+         <a href=
 
    
    </div>

@@ -24,13 +24,18 @@
 
 <section class="header">
 
-   <a href="home.php" class="logo">Indramayu Exsplore</a>
+<a href="home.php" class="logo" >Indramayu Exsplore
+    </a>
+    <div  class="imglogo">
+    <img src="images/LOGO.png" alt=""  width = "65px"></img>
+   </div>
+
 
    <nav class="navbar">
-      <a href="home.php">home</a>
-      <a href="about.php">about</a>
-      <a href="package.php">package</a>
-      <a href="book.php">book</a>
+   <a href="home.php">Beranda</a>
+      <a href="about.php">Tentang</a>
+      <a href="package.php">Pilihan</a>
+      <a href="book.php">Pemesanan</a>
    </nav>
 
    <div id="menu-btn" class="fas fa-bars"></div>
@@ -39,8 +44,8 @@
 
 <!-- header section ends -->
 
-<div class="heading" style="background:url(images/home-slide-2.jpg) no-repeat">
-   <h1>about us</h1>
+<div class="heading" style="background:url(images/lau-transformed.jpeg) no-repeat">
+   <h1>Tentang Indramayu</h1>
 </div>
 
 <!-- about section starts  -->
@@ -48,17 +53,17 @@
 <section class="about">
 
    <div class="image">
-      <img src="images/about-img.jpg" alt="">
+      <img src="images/asd.jpg" alt="">
    </div>
 
    <div class="content">
-      <h3>why choose us?</h3>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure numquam nulla iusto corporis dolor commodi libero, vitae obcaecati optio rerum ab culpa nesciunt, earum mollitia quasi ipsam non. Aliquid, iure.</p>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid rerum, delectus voluptate aliquam quaerat iusto repellendus error nulla ab atque.</p>
+      <h3>Kenapa Harus Pilih Wisata Di Kabupaten Indramayu ?</h3>
+      <p style="text-align: justify;">Pantai yang terletak di Desa Pasekan ini menawarkan pemandangan yang indah dengan pasir putih dan laut yang jernih. 
+         Danau buatan yang berada di Desa Karanganyar ini menawarkan keindahan pemandangan alam yang menyejukkan.Desa Kauman merupakan salah satu sentra batik Indramayu.Kawasan Wisata Mangrove Terletak di Desa Karangsong, kawasan wisata ini menawarkan keindahan hutan mangrove yang masih asri.Goa Maharani Goa ini terletak di Desa Kalijati dan menawarkan keindahan stalaktit dan stalakmit yang menakjubkan. </p>
       <div class="icons-container">
-         <div class="icons">
+         <!-- <div class="icons">
             <i class="fas fa-map"></i>
-            <span>top destinations</span>
+            <span>Tempat Favorite</span>
          </div>
          <div class="icons">
             <i class="fas fa-hand-holding-usd"></i>
@@ -68,7 +73,7 @@
             <i class="fas fa-headset"></i>
             <span>24/7 guide service</span>
          </div>
-      </div>
+      </div> -->
    </div>
 
 </section>
@@ -79,7 +84,7 @@
 
 <section class="reviews">
 
-   <h1 class="heading-title"> clients reviews </h1>
+   <h1 class="heading-title">Testimoni Pengunjung</h1>
 
    <div class="swiper reviews-slider">
 
@@ -93,10 +98,10 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus facilis laudantium magnam saepe magni ullam possimus laborum voluptas, veniam ipsum officiis quae doloribus minima ut quis. Molestiae qui distinctio possimus?</p>
-            <h3>Sule</h3>
-            <span>traveler</span>
-            <img src="images/pic-1.png" alt="">
+            <p>Pantai Karangsong Sangat Diminati Oleh Pengunjung dan asik untuk bersantai dan tempat rekreasi yang sungguh menawan dan enak di pandang dengan senang hati</p>
+            <h3>Suleiman</h3>
+            <span></span>
+            <img src="images/home-slide-1.jpg" alt="">
          </div>
 
          <div class="swiper-slide slide">
@@ -106,10 +111,10 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus repellendus et suscipit optio similique totam aut laborum ullam sequi! In!</p>
-            <h3>Man</h3>
-            <span>traveler</span>
-            <img src="images/pic-2.png" alt="">
+            <p>Situ Bolang sangat menarik untuk dikunjungi dan asyik untuk bersama keluarga dan bersenang senang dengan keluarga agar bisa refreshing lebih santai lagi mantap</p>
+            <h3>Abdurohkim</h3>
+            <span></span>
+            <img src="images/home-slide-1.jpg" alt="">
          </div>
 
          <div class="swiper-slide slide">
@@ -118,9 +123,9 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus enim deserunt, ab at ea iste odio placeat doloribus eum dolores tempore obcaecati, dolore esse aperiam. Excepturi ad quo distinctio, dignissimos voluptate, dolores, saepe animi eum atque sint esse ab exercitationem!</p>
-            <h3>AK86</h3>
-            <span>traveler</span>
+            <p>Pulau Biawak sangat asik untuk dikunjungi dan banyak rekreasi yang belum saya temukan oleh karena itu perlunya upgrade kawasan tersebut agar menarik</p>
+            <h3>Debi Nabilah Sholihah</h3>
+            <span></span>
             <img src="images/home-slide-1.jpg" alt="">
          </div>
 
@@ -191,29 +196,29 @@
 
    <div class="box-container">
 
-      <div class="box">
-         <h3>quick links</h3>
-         <a href="home.php"> <i class="fas fa-angle-right"></i> home</a>
-         <a href="about.php"> <i class="fas fa-angle-right"></i> about</a>
-         <a href="package.php"> <i class="fas fa-angle-right"></i> package</a>
-         <a href="book.php"> <i class="fas fa-angle-right"></i> book</a>
+   <div class="box">
+         <h1 style="color: black;">Halaman Cepat</h1>
+         <a href="home.php"> <i class="fas fa-angle-right"></i> Beranda</a>
+         <a href="about.php"> <i class="fas fa-angle-right"></i> Tentang</a>
+         <a href="package.php"> <i class="fas fa-angle-right"></i> Pilihan</a>
+         <a href="book.php"> <i class="fas fa-angle-right"></i> Pemesanan</a>
       </div>
 
       <div class="box">
-         <h3>extra links</h3>
-         <a href="#"> <i class="fas fa-angle-right"></i> ask questions</a>
-         <a href="#"> <i class="fas fa-angle-right"></i> about us</a>
-         <a href="#"> <i class="fas fa-angle-right"></i> privacy policy</a>
-         <a href="#"> <i class="fas fa-angle-right"></i> terms of use</a>
+          <h1 style="color: black;">Seputar Wisata Indramayu</h1>
+         <a href="#"> <i class="fas fa-angle-right"></i> Ajukan Pertanyaan</a>
+         <a href="#"> <i class="fas fa-angle-right"></i> Tentang Indramayu</a>
+         <a href="#"> <i class="fas fa-angle-right"></i> Ketentuan</a>
+         <a href="#"> <i class="fas fa-angle-right"></i> Persyaratan</a>
       </div>
 
       <div class="box">
-         <h3>contact info</h3>
+         
+      <h1 style="color: black;">Ikuti Kami</h1>
          <a href="#"> <i class="fab fa-facebook-f"></i> facebook </a>
          <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
          <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
-         <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
-      </div>
+         <a href=
 
 
 

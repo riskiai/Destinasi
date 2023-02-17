@@ -24,13 +24,18 @@
 
 <section class="header">
 
-   <a href="home.php" class="logo">Indramayu Exsplore</a>
+<a href="home.php" class="logo" >Indramayu Exsplore
+    </a>
+    <div  class="imglogo">
+    <img src="images/LOGO.png" alt=""  width = "65px"></img>
+   </div>
+
 
    <nav class="navbar">
-      <a href="home.php">home</a>
-      <a href="about.php">about</a>
-      <a href="package.php">package</a>
-      <a href="book.php">book</a>
+      <a href="home.php">Beranda</a>
+      <a href="about.php">Tentang</a>
+      <a href="package.php">Pilihan</a>
+      <a href="book.php">Pemesanan</a>
    </nav>
 
    <div id="menu-btn" class="fas fa-bars"></div>
@@ -39,153 +44,92 @@
 
 <!-- header section ends -->
 
-<div class="heading" style="background:url(images/home-slide-2.jpg) no-repeat">
-   <h1>packages</h1>
+<div class="heading" style="background:url(images/lau-transformed.jpeg) no-repeat">
+   <h1>Pilihan Wisata</h1>
 </div>
 
 <!-- packages section starts  -->
 
 <section class="packages">
 
-   <h1 class="heading-title">top destinations</h1>
+   <h1 class="heading-title ">Tempat Wisata Favorite</h1>
 
    <div class="box-container">
 
       <div class="box">
          <div class="image">
-            <img src="images/img-1.jpg" alt="">
+            <img src="images/pantaikarangsong.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="book.php" class="btn">book now</a>
+            <h3>PANTAI KARANGSONG</h3>
+            <p>Pantai Karangsong merupakan sebuah pantai yang terletak di Desa Karangsong, Kecamatan Karangampel, Kabupaten Indramayu, Jawa Barat, Indonesia.</p>
+            <a href="book.php" class="btn">Pesan</a>
          </div>
       </div>
 
       <div class="box">
          <div class="image">
-            <img src="images/img-2.jpg" alt="">
+            <img src="images/biawakkkk.png" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="book.php" class="btn">book now</a>
+            <h3>PULAU BIAWAK</h3>
+            <p>Pulai Biawak adalah sebuah pantai yang terletak di Desa Balongan, Kecamatan Balongan, Kabupaten Indramayu, Jawa Barat, Indonesia. </p>
+            <a href="book.php" class="btn">Pesan</a>
+         </div>
+      </div>
+      
+      <div class="box">
+         <div class="image">
+            <img src="images/balongan.jpg" alt="">
+         </div>
+         <div class="content">
+            <h3>PANTAI BALONGAN</h3>
+            <p>Pantai Balongan adalah sebuah pantai yang terletak di Desa Balongan, Kecamatan Balongan, Kabupaten Indramayu, Jawa Barat, Indonesia.</p>
+            <a href="book.php" class="btn">Pesan</a>
          </div>
       </div>
 
       <div class="box">
          <div class="image">
-            <img src="images/img-3.jpg" alt="">
+            <img src="images/cimanuk.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="book.php" class="btn">book now</a>
+            <h3>TAMAN TJIMANOEK</h3>
+            <p>Taman Cimanuk adalah sebuah taman rekreasi yang terletak di kota Indramayu, Jawa Barat, Indonesia. Taman ini terletak di dekat Sungai Cimanuk, yang merupakan sungai terpanjang di Jawa Barat.</p>
+            <a href="book.php" class="btn">Pesan</a>
          </div>
       </div>
 
       <div class="box">
          <div class="image">
-            <img src="images/img-4.jpg" alt="">
+            <img src="images/magroveee.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="book.php" class="btn">book now</a>
+            <h3>HUTAN MANGROVE</h3>
+            <p>Hutan mangrove di Indramayu adalah sebuah kawasan hutan bakau yang terletak di sepanjang pesisir Indramayu, Jawa Barat, Indonesia. Hutan Mangrove adalah aset penting untuk mencegah abrasi sungai </p>
+            <a href="book.php" class="btn">Pesan</a>
          </div>
       </div>
 
       <div class="box">
          <div class="image">
-            <img src="images/img-5.jpg" alt="">
+            <img src="images/situuubolanggg.jpeg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="book.php" class="btn">book now</a>
+            <h3>SITU BOLANG</h3>
+            <p>Situ Bolang adalah sebuah danau buatan yang terletak di Desa Cikedung, Kecamatan Bangodua, Kabupaten Indramayu, Jawa Barat, Indonesia. Danau ini dibangun pada tahun 1986 sebagai bagian dari proyek irigasi</p>
+            <a href="book.php" class="btn">Pesan</a>
          </div>
       </div>
 
-      <div class="box">
-         <div class="image">
-            <img src="images/img-6.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="book.php" class="btn">book now</a>
-         </div>
-      </div>
+      
 
-      <div class="box">
-         <div class="image">
-            <img src="images/img-7.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="book.php" class="btn">book now</a>
-         </div>
-      </div>
+ 
 
-      <div class="box">
-         <div class="image">
-            <img src="images/img-8.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="book.php" class="btn">book now</a>
-         </div>
-      </div>
-
-      <div class="box">
-         <div class="image">
-            <img src="images/img-9.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="book.php" class="btn">book now</a>
-         </div>
-      </div>
-
-      <div class="box">
-         <div class="image">
-            <img src="images/img-10.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="book.php" class="btn">book now</a>
-         </div>
-      </div>
-
-      <div class="box">
-         <div class="image">
-            <img src="images/img-11.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="book.php" class="btn">book now</a>
-         </div>
-      </div>
-
-      <div class="box">
-         <div class="image">
-            <img src="images/img-12.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="book.php" class="btn">book now</a>
-         </div>
-      </div>
-
+     
    </div>
 
-   <div class="load-more"><span class="btn">load more</span></div>
+   <div class="load-more"><span class="btn">Selanjutnya</span></div>
 
 </section>
 
@@ -212,29 +156,29 @@
 
    <div class="box-container">
 
-      <div class="box">
-         <h3>quick links</h3>
-         <a href="home.php"> <i class="fas fa-angle-right"></i> home</a>
-         <a href="about.php"> <i class="fas fa-angle-right"></i> about</a>
-         <a href="package.php"> <i class="fas fa-angle-right"></i> package</a>
-         <a href="book.php"> <i class="fas fa-angle-right"></i> book</a>
+   <div class="box">
+         <h1 style="color: black;">Halaman Cepat</h1>
+         <a href="home.php"> <i class="fas fa-angle-right"></i> Beranda</a>
+         <a href="about.php"> <i class="fas fa-angle-right"></i> Tentang</a>
+         <a href="package.php"> <i class="fas fa-angle-right"></i> Pilihan</a>
+         <a href="book.php"> <i class="fas fa-angle-right"></i> Pemesanan</a>
       </div>
 
       <div class="box">
-         <h3>extra links</h3>
-         <a href="#"> <i class="fas fa-angle-right"></i> ask questions</a>
-         <a href="#"> <i class="fas fa-angle-right"></i> about us</a>
-         <a href="#"> <i class="fas fa-angle-right"></i> privacy policy</a>
-         <a href="#"> <i class="fas fa-angle-right"></i> terms of use</a>
+          <h1 style="color: black;">Seputar Wisata Indramayu</h1>
+         <a href="#"> <i class="fas fa-angle-right"></i> Ajukan Pertanyaan</a>
+         <a href="#"> <i class="fas fa-angle-right"></i> Tentang Indramayu</a>
+         <a href="#"> <i class="fas fa-angle-right"></i> Ketentuan</a>
+         <a href="#"> <i class="fas fa-angle-right"></i> Persyaratan</a>
       </div>
 
       <div class="box">
-      <h3>follow us</h3>
+         
+      <h1 style="color: black;">Ikuti Kami</h1>
          <a href="#"> <i class="fab fa-facebook-f"></i> facebook </a>
          <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
          <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
-         <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
-      </div>
+         <a href=
 
 
 
