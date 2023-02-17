@@ -45,7 +45,7 @@
 <!-- header section ends -->
 
 <div class="heading" style="background:url(images/lau-transformed.jpeg) no-repeat">
-   <h1>Pilihan Wisata</h1>
+   <h1>Pilihan </h1>
 </div>
 
 <!-- packages section starts  -->

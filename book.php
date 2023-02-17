@@ -44,14 +44,14 @@
 <!-- header section ends -->
 
 <div class="heading" style="background:url(images/lau-transformed.jpeg) no-repeat">
-   <h1>Pemesanan Wisata</h1>
+   <h1>Pemesanan</h1>
 </div>
 
 <!-- booking section starts  -->
 
 <section class="booking">
 
-   <h1 class="heading-title">DATA PEMESANAN</h1>
+   <h1 class="heading-title">DATA PEMESANAN WISATA</h1>
 
    <form action="book_form.php" method="post" class="book-form">
 

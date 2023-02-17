@@ -45,7 +45,7 @@
 <!-- header section ends -->
 
 <div class="heading" style="background:url(images/lau-transformed.jpeg) no-repeat">
-   <h1>Tentang Indramayu</h1>
+   <h1>Tentang</h1>
 </div>
 
 <!-- about section starts  -->
@@ -175,19 +175,6 @@
 </section>
 
 <!-- reviews section ends -->
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!-- footer section starts  -->
