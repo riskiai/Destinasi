@@ -100,10 +100,10 @@
          <h3>TEMPAT WISATA </br> PETUALANGAN</h3>
       </div>
 
-      <!-- <div class="box">
+      <div class="box">
          <img src="images/icon-2.png" alt="">
-         <h3>TEMPAT </br> WISATA</h3>
-      </div> -->
+         <h3>TEMPAT WISATA </br> BERSANTAI</h3>
+      </div>
 
       <div class="box">
          <img src="images/icon-3.png" alt="">
