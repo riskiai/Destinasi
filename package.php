@@ -24,11 +24,13 @@
 
 <section class="header">
 
-<a href="home.php" class="logo" >Indramayu Exsplore
+<img src="images/LOGO.png" alt=""  width = "80px">
+    <a href="home.php" class="logo" >Dermayu Exsplore
     </a>
+    </img>
     <div  class="imglogo">
-    <img src="images/LOGO.png" alt=""  width = "65px"></img>
-   </div>
+    
+    </div>
 
 
    <nav class="navbar">
@@ -165,7 +167,7 @@
       </div>
 
       <div class="box">
-          <h1 style="color: black;">Seputar Wisata Indramayu</h1>
+          <h1 style="color: black;">Informasi Wisata</h1>
          <a href="#"> <i class="fas fa-angle-right"></i> Ajukan Pertanyaan</a>
          <a href="#"> <i class="fas fa-angle-right"></i> Tentang Indramayu</a>
          <a href="#"> <i class="fas fa-angle-right"></i> Ketentuan</a>

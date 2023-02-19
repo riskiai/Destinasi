@@ -24,11 +24,13 @@
 
 <section class="header">
 
-<a href="home.php" class="logo" >Indramayu Exsplore
+<img src="images/LOGO.png" alt=""  width = "80px">
+    <a href="home.php" class="logo" >Dermayu Exsplore
     </a>
+    </img>
     <div  class="imglogo">
-    <img src="images/LOGO.png" alt=""  width = "65px"></img>
-   </div>
+    
+    </div>
 
 
    <nav class="navbar">
@@ -59,7 +61,7 @@
    <div class="content">
       <h3>Kenapa Harus Pilih Wisata Di Kabupaten Indramayu ?</h3>
       <p style="text-align: justify;">Pantai yang terletak di Desa Pasekan ini menawarkan pemandangan yang indah dengan pasir putih dan laut yang jernih. 
-         Danau buatan yang berada di Desa Karanganyar ini menawarkan keindahan pemandangan alam yang menyejukkan.Desa Kauman merupakan salah satu sentra batik Indramayu.Kawasan Wisata Mangrove Terletak di Desa Karangsong, kawasan wisata ini menawarkan keindahan hutan mangrove yang masih asri.Goa Maharani Goa ini terletak di Desa Kalijati dan menawarkan keindahan stalaktit dan stalakmit yang menakjubkan. </p>
+         Danau buatan yang berada di Desa Karanganyar ini menawarkan keindahan pemandangan alam yang menyejukkan. Desa Kauman merupakan salah satu sentra batik Indramayu. Kawasan Wisata Mangrove Terletak di Desa Karangsong, kawasan wisata ini menawarkan keindahan hutan mangrove yang masih asri. Goa Maharani Goa ini terletak di Desa Kalijati dan menawarkan keindahan stalaktit dan stalakmit yang menakjubkan. </p>
       <div class="icons-container">
          <!-- <div class="icons">
             <i class="fas fa-map"></i>
@@ -192,7 +194,7 @@
       </div>
 
       <div class="box">
-          <h1 style="color: black;">Seputar Wisata Indramayu</h1>
+          <h1 style="color: black;">Informasi Wisata</h1>
          <a href="#"> <i class="fas fa-angle-right"></i> Ajukan Pertanyaan</a>
          <a href="#"> <i class="fas fa-angle-right"></i> Tentang Indramayu</a>
          <a href="#"> <i class="fas fa-angle-right"></i> Ketentuan</a>

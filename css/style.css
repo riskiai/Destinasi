@@ -109,7 +109,9 @@ section {
 
 .header .logo {
    font-size: 2.5rem;
+   padding-right: 43rem;
    color: var(--black);
+   margin-left: 1rem;
 
 }
 
@@ -548,14 +550,6 @@ section {
 }
 
 
-
-
-
-
-
-
-
-
 .footer {
    background: url(../images/footer-bg.jpg) no-repeat;
    background-size: cover;
@@ -571,17 +565,17 @@ section {
 
 }
 
-.footer .box-container .box h3 {
+.footer .box-container .box h1 {
    color: var(--white);
-   font-size: 1rem;
-
-
+   font-size: 15px;
+   padding-left: 9rem;
 }
 
-.footer .box-container .box a {
+.footer .box-container .box a  {
    color: var(--light-white);
    font-size: 1.5rem;
-   padding-bottom: 1.5rem;
+   padding-left: 9rem;
+   padding-bottom: 0.5rem;
    display: block;
    color: black;
 }
@@ -685,6 +679,24 @@ section {
    .heading-title {
       font-size: 3.5rem;
    }
+   .footer .box-container .box h1 {
+      padding-left: 0px;
+   }
+   .footer .box-container .box a {
+      padding-left: 0px;
+   }
+   .footer .box-container {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
+      gap: 3.5rem;
+   }
+   .header .logo {
+      font-size: 2.5rem;
+      padding-right: 10rem;
+      color: var(--black);
+      margin-left: 0.1rem;
+   
+   }
 
 }
 
@@ -720,10 +732,9 @@ section {
 
 .imglogo {
 
-   padding: 25rem;
-   position: absolute;
+   padding: 1rem;
    z-index: 0;
-   border: 100
+  
 
 }
 .packages .heading-title {
